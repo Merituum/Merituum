@@ -25,7 +25,7 @@ Currently working on a 5G simulation in the center of Warsaw.
 ---
 
 ## 📫 Contact
-- **Email:** [bartolopoland@gmail.com](mailto:bartolopoland@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/siwik-telco)
+- **Email:** [Mail](mailto:bartolopoland@gmail.com)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/siwik-telco)
 
 Feel free to explore the repositories and reach out if you have any questions or suggestions!
