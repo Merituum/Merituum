@@ -21,7 +21,7 @@ I am an undergraduate student at Poznan University of Technology, majoring in Te
 - Folium
 
 ### 📱 LTE and 5G Simulations
-[Simulation of a 4G network in my hometown, Łomża (T-Mobile only), with real-life results comparison.](https://github.com/Merituum/FekoLomza) 
+[Simulation of a 4G network in my hometown, Łomża (T-Mobile only), with real-life results comparison.](https://github.com/Merituum/FekoLomza) <br>
 [Currently working on a 5G simulation in the center of Warsaw.](https://github.com/Merituum/wwa_cen_5G)
 
 ---
