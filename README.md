@@ -5,7 +5,7 @@ I am an undergraduate student at Poznan University of Technology, majoring in Te
 ---
 ## Curriculum Vitae
 
-My CV (only in polish):  [LINK](./Bartosz%20Siwik%20-%20CV.pdf)
+My resume (only in polish):  [LINK](./Bartosz%20Siwik%20-%20CV.pdf)
 
 ## Known technologies and tools
 
@@ -21,12 +21,12 @@ My CV (only in polish):  [LINK](./Bartosz%20Siwik%20-%20CV.pdf)
 ## 📂 Main Projects
 
 ### 📡 Antenna Design Simulation and Constructions
-Design of patch antennas [Patch antenna B7 LTE](https://github.com/Merituum/patch2600LTE)<br>
-Log-periodic antennas [LPDA for LTE (B1, B3, B7)](https://github.com/Merituum/LPDA_1.8-2.6GHz)<br>
-Currently working on a beam steering system for communication with the ISS [ISS Project](https://github.com/Merituum/ISSproject)
+Design of patch antennas - [Patch antenna B7 LTE](https://github.com/Merituum/patch2600LTE)<br>
+Log-periodic antennas - [LPDA for LTE (B1, B3, B7)](https://github.com/Merituum/LPDA_1.8-2.6GHz)<br>
+Currently working on a beam steering system for communication with the ISS - [ISS Project](https://github.com/Merituum/ISSproject)
 
 ### 📶 MNSM - BTS Map with Azimuth Displaying
-Python application that displays a map with mobile stations in Poland along with the azimuths of their antennas. [MNSM - link](https://github.com/Merituum/mnsm_BTS_map)  
+Python application that displays a map with mobile stations in Poland along with the azimuths of their antennas - [MNSM - link](https://github.com/Merituum/mnsm_BTS_map)  
 **Technologies used:**
 - Python
 - Pandas
@@ -34,7 +34,7 @@ Python application that displays a map with mobile stations in Poland along with
 - Folium
 
 ### 📱 LTE and 5G Simulations
-Simulation of a 4G network in my hometown, Łomża (T-Mobile only), with real-life results comparison. [NetWorks - Lomza](https://github.com/Merituum/FekoLomza) <br>
+Simulation of a 4G network in my hometown, Łomża (T-Mobile only), with real-life results comparison - [NetWorks - Lomza](https://github.com/Merituum/FekoLomza) <br>
 Currently working on a 5G simulation in the center of Warsaw. [WWA_5G](https://github.com/Merituum/wwa_cen_5G)
 
 ---
