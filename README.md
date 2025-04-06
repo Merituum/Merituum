@@ -25,13 +25,7 @@ My resume (only in polish):  [LINK](./Bartosz%20Siwik%20-%20CV.pdf)
 Design of patch antennas [Patch antenna B7 LTE](https://github.com/Merituum/patch2600LTE)<br>
 Log-periodic antennas [LPDA for LTE (B1, B3, B7)](https://github.com/Merituum/LPDA_1.8-2.6GHz)<br>
 Currently working on a beam steering system for communication with the ISS [ISS Project](https://github.com/Merituum/ISSproject)<br>
-Repository is hidden since paper about this project is about to be published at KRiT (National Conference of Radiocommunications and ICT)
-
-=======
-Design of patch antennas - [Patch antenna B7 LTE](https://github.com/Merituum/patch2600LTE)<br>
-Log-periodic antennas - [LPDA for LTE (B1, B3, B7)](https://github.com/Merituum/LPDA_1.8-2.6GHz)<br>
-Currently working on a beam steering system for communication with the ISS - [ISS Project](https://github.com/Merituum/ISSproject)
->>>>>>> 4bf557035cae62d6a09f974429fa7b34709eb96c
+Repository is hidden since paper about this project is about to be published at KRiT 2025 (National Conference of Radiocommunications and ICT)
 
 ### 📶 MNSM - BTS Map with Azimuth Displaying
 Python application that displays a map with mobile stations in Poland along with the azimuths of their antennas - [MNSM - link](https://github.com/Merituum/mnsm_BTS_map)  
