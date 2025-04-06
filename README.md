@@ -21,10 +21,9 @@ My resume (only in polish):  [LINK](./Bartosz%20Siwik%20-%20CV.pdf)
 ## 📂 Main Projects
 
 ### 📡 Antenna Design Simulation and Constructions
-<<<<<<< HEAD
-Design of patch antennas [Patch antenna B7 LTE](https://github.com/Merituum/patch2600LTE)<br>
-Log-periodic antennas [LPDA for LTE (B1, B3, B7)](https://github.com/Merituum/LPDA_1.8-2.6GHz)<br>
-Currently working on a beam steering system for communication with the ISS [ISS Project](https://github.com/Merituum/ISSproject)<br>
+- Design of patch antennas [Patch antenna B7 LTE](https://github.com/Merituum/patch2600LTE)<br>
+- Log-periodic antennas [LPDA for LTE (B1, B3, B7)](https://github.com/Merituum/LPDA_1.8-2.6GHz)<br>
+- Currently working on a beam steering system for communication with the ISS [ISS Project](https://github.com/Merituum/ISSproject)<br>
 Repository is hidden since paper about this project is about to be published at KRiT 2025 (National Conference of Radiocommunications and ICT)
 
 ### 📶 MNSM - BTS Map with Azimuth Displaying
