@@ -3,9 +3,6 @@
 I am an undergraduate student at Poznan University of Technology, majoring in Telecommunications. My interests include RF engineering, mobile networks, and antenna design. Here, you will find many of my projects showcasing my skills and progress in these fields.
 
 ---
-## Curriculum Vitae
-
-My resume (only in polish):  [LINK](./Bartosz%20Siwik%20-%20CV.pdf)
 
 ## Known technologies and tools
 
