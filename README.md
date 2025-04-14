@@ -38,7 +38,7 @@ Currently working on a 5G simulation in the center of Warsaw - [WWA_5G](https://
 ---
 
 ## 📫 Contact
-- **Email:** [bartoszsiwik4](mailto:bartoszsiwik4@gmail.com)  
+- **Email:** [bartoszsiwik4@gmail.com](mailto:bartoszsiwik4@gmail.com)  
 - **LinkedIn:** [siwik-telco](https://www.linkedin.com/in/siwik-telco)
 
 Feel free to explore the repositories and reach out if you have any questions or suggestions!
