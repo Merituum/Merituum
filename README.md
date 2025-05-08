@@ -7,10 +7,10 @@ I am an undergraduate student at Poznan University of Technology, majoring in Te
 ## Known technologies and tools
 
 - 2G/UMTS/LTE/NR 
-- Antenna design
-- EM fields and wave propagation
-- Radio network simulations (FEKO, CST, QWED)
-- Matlab, Simulink, LabView, Multisim, 
+- Antenna design with simulatiom (FEKO, CST, QuickWave)
+- EM fields and wave propagation (Quickwave)
+- Radio network simulations (Altair Proman, Altair Wallman)
+- Design and compute software (Matlab, Simulink, LabView, Multisim)
 - Network engineering (Layer 2 and 3) - Cisco, Huawei, Mikrotik
 - PHP, Python, C++, SQL, HTML, CSS, Javascript
 - Server administrating (Linux - Samba, Windows - AD)
