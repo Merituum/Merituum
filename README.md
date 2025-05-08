@@ -9,7 +9,7 @@ I am an undergraduate student at Poznan University of Technology, majoring in Te
 - 2G/UMTS/LTE/NR 
 - Antenna design
 - EM fields and wave propagation
-- Radio network simulations (FEKO, CST)
+- Radio network simulations (FEKO, CST, QWED)
 - Matlab, Simulink, LabView, Multisim, 
 - Network engineering (Layer 2 and 3) - Cisco, Huawei, Mikrotik
 - PHP, Python, C++, SQL, HTML, CSS, Javascript
@@ -21,7 +21,7 @@ I am an undergraduate student at Poznan University of Technology, majoring in Te
 - Design of patch antennas [Patch antenna B7 LTE](https://github.com/Merituum/patch2600LTE)<br>
 - Log-periodic antennas [LPDA for LTE (B1, B3, B7)](https://github.com/Merituum/LPDA_1.8-2.6GHz)<br>
 - Currently working on a beam steering system for communication with the ISS [ISS Project](https://github.com/Merituum/ISSproject)<br>
-Repository is hidden since paper about this project is about to be published at KRiT 2025 (National Conference of Radiocommunications and ICT)
+Repository is hidden since paper about this project is about to be published.
 
 ### 📶 MNSM - BTS Map with Azimuth Displaying
 Python application that displays a map with mobile stations in Poland along with the azimuths of their antennas - [MNSM - link](https://github.com/Merituum/mnsm_BTS_map)  
