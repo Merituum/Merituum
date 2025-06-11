@@ -8,7 +8,7 @@ I am an undergraduate student at Poznan University of Technology, majoring in Te
 
 - 2G/UMTS/LTE/NR 
 - Antenna design and EM fields simulations (FEKO, CST, QuickWave)
-- Radio network simulations, wave propagation simulations (Altair Proman, Altair Wallman)
+- Wave propagation and radio networks simulations (Altair Proman, Altair Wallman)
 - Design and compute software (Matlab, Simulink, LabView, Multisim)
 - Network engineering (Layer 2 and 3) - Cisco, Huawei, Mikrotik
 - PHP, Python, C++, SQL, HTML, CSS, Javascript
